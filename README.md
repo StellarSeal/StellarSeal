@@ -3,19 +3,19 @@
 
 - 🔭 Bad developer working at [LuckyVN](https://luckyvn.com)
 
-- ✨ Mainly proficient with **Java/[JavaScript (Nashorn)](https://github.com/openjdk/nashorn) - Bukkit/BungeeCord**
+- ✨ Mainly proficient with **Java/JavaScript (Python)/Bukkit API/BungeeCord API/Python**
 
 - 🤖 Author of [HyperHook Discord bot](https://github.com/emnoigi1452/HyperHook)
 
 - 🖌️ Profile avatar by [たんたんめん](https://www.pixiv.net/en/users/188106)
 
-- 💬 Contact me through Discord at **stellarseal**
+- 💬 Contact me through Discord: **[@stellarseal](https://discordlookup.com/user/219432043354914817)**
 
 - 🚀 IDE of choice **[IntelliJ](https://www.jetbrains.com/idea/) / [Sublime Text](https://www.sublimetext.com/)**
 
 - ⚡ Fun fact **I like seals**
 
-<p style="text-align=center;"><img src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMain" alt="yuki" /></p>
+<p>&nbsp;<img align="center" src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMai" alt="yuki" /></p>
 
 <h3 align="left">My socials</h3>
 <a href="https://www.leetcode.com/emnoigi1452" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin: 0 20px;">
