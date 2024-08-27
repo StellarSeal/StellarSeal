@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5598811a-25f3-47d9-838e-f9668a3fdeae)<h1 align="center">Hi 👋, I'm StellarSeal_</h1>
+<h1 align="center">Hi 👋, I'm StellarSeal_</h1>
 <h3 align="center">A random seal who enjoys coding 🐧</h3>
 
 - 🔭 Bad developer working at [LuckyVN](https://luckyvn.com)
