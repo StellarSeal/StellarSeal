@@ -13,7 +13,7 @@
 
 - 🚀 IDE of choice **[IntelliJ](https://www.jetbrains.com/idea/) / [Sublime Text](https://www.sublimetext.com/)**
 
-- ⚡ Fun fact **I like seals**
+- ⚡ Fun fact about me: **I like seals**
 
 <p>&nbsp;<img align="center" src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMai" alt="yuki" /></p>
 
