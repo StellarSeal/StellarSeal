@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I like seals**
 
-<p><img aligh="center" src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMain" alt="yuki" /></p>
+<p><img align="center" src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMain" alt="yuki" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
