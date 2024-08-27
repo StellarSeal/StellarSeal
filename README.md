@@ -16,13 +16,13 @@
 <p style="text-align=center;"><img src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMain" alt="yuki" /></p>
 
 <h3 align="left">My socials</h3>
-<a href="https://www.leetcode.com/emnoigi1452" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin-right: 20px; margin-left: 20px; padding-left: 50px;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="padding-right: 50px;" />
-        <span style="margin-left: 20px;">emnoigi1452 (~#900k)</span>
+<a href="https://www.leetcode.com/emnoigi1452" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin: 0 20px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 10px;" />
+        <span>emnoigi1452 (~#900k)</span>
     </a>
-    <a href="https://twitter.com/stellarseal_" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin-right: 20px; margin-left: 20px; padding-left: 50px;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" style="padding-right: 50px;" />
-        <span style="margin-left: 20px;">@StellarSeal_</span>
+    <a href="https://twitter.com/stellarseal_" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin: 0 20px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" style="margin-right: 10px;" />
+        <span>@StellarSeal_</span>
     </a>
 
 
