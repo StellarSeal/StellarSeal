@@ -27,26 +27,26 @@
 
 
 <h3 align="left">What I can use</h3>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 20px; margin-left: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-        <span style="margin-left: 20px;">C++ (Beginner)</span>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 20px; margin-left: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-        <span style="margin-left: 20px;">Java</span>
-    </a>
-    <a href="https://github.com/openjdk/nashorn" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 20px; margin-left: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-        <span style="margin-left: 20px;">JavaScript (Nashorn)</span>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 20px; margin-left: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-        <span style="margin-left: 20px;">MySQL</span>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-        <span style="margin-left: 20px;">Python</span>
-    </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 40px; margin-left: 40px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+    <span style="margin-left: 40px;">C++ (Beginner)</span>
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 40px; margin-left: 40px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+    <span style="margin-left: 40px;">Java</span>
+</a>
+<a href="https://github.com/openjdk/nashorn" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 40px; margin-left: 40px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    <span style="margin-left: 40px;">JavaScript (Nashorn)</span>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 40px; margin-left: 40px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    <span style="margin-left: 40px;">MySQL</span>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-left: 40px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <span style="margin-left: 40px;">Python</span>
+</a>
 
 <p></p>
 
