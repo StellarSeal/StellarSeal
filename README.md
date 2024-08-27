@@ -17,10 +17,10 @@
 
 <p style="text-align=center;"><img src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMain" alt="yuki" /></p>
 
-<h3 align="left">My socials ()</h3>
+<h3 align="left">My socials</h3>
 <a href="https://www.leetcode.com/emnoigi1452" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin: 0 20px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 10px;" />
-        <span style="text-decoration: none; margin-right: 25px; display: inline-block;">emnoigi1452 (~#900k)   </span>
+        <span style="text-decoration: none; margin-right: 25px; display: inline-block;">emnoigi1452 (~#900k)</span>
     </a>
     <a href="https://twitter.com/stellarseal_" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin: 0 20px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" style="margin-right: 10px;" />
@@ -31,23 +31,23 @@
 <h3 align="left">What I can use</h3>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 40px; margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="27" height="27" />
-    <span style="margin-left: 40px;">C++ (Beginner)</span>
+    <span style="margin-left: 40px; display: inline-block;">C++ (Beginner)</span>
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 40px; margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="27" height="27" />
-    <span style="margin-left: 40px;">Java</span>
+    <span style="margin-left: 40px; display: inline-block;">Java</span>
 </a>
 <a href="https://github.com/openjdk/nashorn" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 40px; margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="27" height="27" />
-    <span style="margin-left: 40px;">JavaScript (Nashorn)</span>
+    <span style="margin-left: 40px; display: inline-block;">JavaScript (Nashorn)</span>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 40px; margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="27" height="27" />
-    <span style="margin-left: 40px;">MySQL</span>
+    <span style="margin-left: 40px; display: inline-block;">MySQL</span>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="27" height="27" />
-    <span style="margin-left: 40px;">Python</span>
+    <span style="margin-left: 40px; display: inline-block;">Python</span>
 </a>
 
 <p></p>
