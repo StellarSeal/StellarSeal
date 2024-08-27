@@ -16,9 +16,14 @@
 <p style="text-align=center;"><img src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMain" alt="yuki" /></p>
 
 <h3 align="left">My socials</h3>
-<p align="left">
-| [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/emnoigi1452) emnoigi1452 (~#900k) | [@StellarSeal_ ![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/stellarseal_) |
-|:---|---:|
+<a href="https://www.leetcode.com/emnoigi1452" target="_blank" style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+        <span style="margin-left: 10px;">emnoigi1452 (~#900k)</span>
+    </a>
+    <a href="https://twitter.com/stellarseal_" target="_blank" style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+        <span style="margin-left: 10px;">@StellarSeal_</span>
+    </a>
 
 
 <h3 align="left">What I can use</h3>
