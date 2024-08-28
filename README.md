@@ -15,7 +15,9 @@
 
 - ⚡ Fun fact about me: **I like seals**
 
-<p>&nbsp;<img align="center" src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMai" alt="yuki" /></p>
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMai" alt="yuki" style="width: 40%;" />
+</p>
 
 <h3 align="left">My socials</h3>
 <a href="https://www.leetcode.com/emnoigi1452" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin: 0 20px;">
