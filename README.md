@@ -60,6 +60,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emnoigi1452&show_icons=true&locale=en&theme=tokyonight" alt="emnoigi1452" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emnoigi1452&theme=radical&hide_border=false" alt="emnoigi1452" style="width: 60%;" />
+<p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emnoigi1452&theme=tokyonight&hide_border=false" alt="emnoigi1452" style="width: 40%;" />
 </p>
