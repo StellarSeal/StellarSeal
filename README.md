@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm StellarSeal_</h1>
 <h3 align="center">A random seal who enjoys coding 🐧</h3>
 
-- 🔭 Bad developer working at [LuckyVN](https://luckyvn.com) lmao
+- 🔭 Bad developer working at **[LuckyVN](https://luckyvn.com)** lmao
 
 - ✨ Mainly proficient with Spigot/Bungee developement and back-end Java apps
 
-- 📚 Projects I've worked on: [HyperHook](https://github.com/emnoigi1452/HyperHook) and [AddressLocker](https://github.com/emnoigi1452/AddressLocker)
+- 📚 Projects I've worked on: **[HyperHook](https://github.com/emnoigi1452/HyperHook) Discord Bot** and **[AddressLocker](https://github.com/emnoigi1452/AddressLocker)**
 
-- 🔨 Currently working on: [Cinnamon](https://github.com/emnoigi1452/Cinnamon)
+- 🔨 Currently working on: **[Cinnamon](https://github.com/emnoigi1452/Cinnamon)**
 
-- 🖌️ Profile avatar - [Hatsune Miku](https://en.wikipedia.org/wiki/Hatsune_Miku) - Artist: [たんたんめん](https://www.pixiv.net/en/users/188106)
+- 🖌️ Profile avatar - **[Hatsune Miku](https://en.wikipedia.org/wiki/Hatsune_Miku)** - Artist: **[たんたんめん](https://www.pixiv.net/en/users/188106)**
 
 - 🚀 IDE of choice: **[IntelliJ](https://www.jetbrains.com/idea/) / [Sublime Text](https://www.sublimetext.com/) / [Eclipse IDE](https://eclipseide.org/)**
 
