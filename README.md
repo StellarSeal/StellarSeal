@@ -13,7 +13,7 @@
 
 - 🚀 IDE of choice **[IntelliJ](https://www.jetbrains.com/idea/) / [Sublime Text](https://www.sublimetext.com/)**
 
-- ⚡ Fun fact about me: **I like seals**
+- ⚡ Fun fact about me: **I like seals (here's Yuki :3)**
 
 <p align="center">
   <img src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMai" alt="yuki" style="width: 40%;" />
@@ -59,3 +59,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emnoigi1452&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emnoigi1452" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emnoigi1452&show_icons=true&locale=en&theme=tokyonight" alt="emnoigi1452" /></p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emnoigi1452&theme=radical&hide_border=false" alt="emnoigi1452" style="width: 35%;" />
+</p>
