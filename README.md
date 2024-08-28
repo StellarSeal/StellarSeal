@@ -58,7 +58,7 @@
 
 <h3 align="left">My GitHub stats</h3>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emnoigi1452&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emnoigi1452" style="width: 32%; margin-right: 10px;" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=emnoigi1452&show_icons=true&locale=en&theme=tokyonight" alt="emnoigi1452" style="width: 32%; margin-right: 10px;" />
