@@ -14,7 +14,7 @@
 - ⚡ Fun fact about me: **I like seals (here's Yuki :3)**
 
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMai" alt="yuki" style="width: 40%;" />
+  <img src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMai" alt="yuki" style="width: 30%;" />
 </p>
 
 <h3 align="left">My socials</h3>
