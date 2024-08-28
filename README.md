@@ -22,7 +22,7 @@
 <h3 align="left">My socials</h3>
 <a href="https://www.leetcode.com/emnoigi1452" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin: 0 20px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 10px;" />
-        <span style="text-decoration: none; margin-right: 25px; display: inline-block;">emnoigi1452 (~#900k)</span>
+        <span style="text-decoration: none; margin-right: 25px; display: inline-block;">emnoigi1452</span>
     </a>
     <a href="https://twitter.com/stellarseal_" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin: 0 20px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" style="margin-right: 10px;" />
