@@ -49,7 +49,7 @@
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 40px; margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="27" height="27" />
-    <span style="margin-left: 40px; display: inline-block;">MySQL (Basic)</span>
+    <span style="margin-left: 40px; display: inline-block;">MySQL (Basic) |</span>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="27" height="27" />
