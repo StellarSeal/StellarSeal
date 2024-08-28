@@ -58,10 +58,10 @@
 
 <h3 align="left">My GitHub stats</h3>
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emnoigi1452&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emnoigi1452" style="width: 30%;" />
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emnoigi1452&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emnoigi1452" style="width: 32%; margin-right: 10px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=emnoigi1452&show_icons=true&locale=en&theme=tokyonight" alt="emnoigi1452" style="width: 30%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emnoigi1452&show_icons=true&locale=en&theme=tokyonight" alt="emnoigi1452" style="width: 32%; margin-right: 10px;" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emnoigi1452&theme=tokyonight&hide_border=false" alt="emnoigi1452" style="width: 30%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emnoigi1452&theme=tokyonight&hide_border=false" alt="emnoigi1452" style="width: 32%;" />
 </div>
