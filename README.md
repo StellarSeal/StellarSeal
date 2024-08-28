@@ -39,7 +39,7 @@
 </a>
 <a href="https://github.com/openjdk/nashorn" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 40px; margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="27" height="27" />
-    <span style="margin-left: 40px; display: inline-block;">JavaScript (Nashorn)</span>
+    <span style="margin-left: 40px; display: inline-block;">JavaScript - Nashorn (Proficient)  |</span>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 40px; margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="27" height="27" />
