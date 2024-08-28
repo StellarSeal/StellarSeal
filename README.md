@@ -54,6 +54,6 @@
 
 <h3 align="left">My recent activity - GitHub</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emnoigi1452&show_icons=true&locale=en&layout=compact" alt="emnoigi1452" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emnoigi1452&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emnoigi1452" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emnoigi1452&show_icons=true&locale=en&theme=tokyonight" alt="emnoigi1452" /></p>
