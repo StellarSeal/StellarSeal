@@ -63,5 +63,5 @@
 <p></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emnoigi1452&theme=radical&hide_border=false" alt="emnoigi1452" style="width: 55%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emnoigi1452&theme=radical&hide_border=false" alt="emnoigi1452" style="width: 48%;" />
 </p>
