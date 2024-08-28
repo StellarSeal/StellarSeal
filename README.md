@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm StellarSeal_</h1>
 <h3 align="center">A random seal who enjoys coding 🐧</h3>
 
-- 🔭 Bad developer working at [LuckyVN](https://luckyvn.com) as an Administrator
+- 🔭 Bad developer working at [LuckyVN](https://luckyvn.com) lmao
 
-- ✨ Mainly proficient with **Java/JavaScript (Python)/Bukkit API/BungeeCord API/Python**
+- ✨ Mainly proficient with Spigot/Bungee developement and back-end Java apps
 
-- 🤖 Author of [HyperHook Discord bot](https://github.com/emnoigi1452/HyperHook)
+- 📚 Projects I've worked on: [HyperHook](https://github.com/emnoigi1452/HyperHook) and [AddressLocker](https://github.com/emnoigi1452/AddressLocker)
 
-- 🖌️ Profile avatar by [たんたんめん](https://www.pixiv.net/en/users/188106)
+- 🔨 Currently working on: [Cinnamon](https://github.com/emnoigi1452/Cinnamon)
 
-- 🚀 IDE of choice **[IntelliJ](https://www.jetbrains.com/idea/) / [Sublime Text](https://www.sublimetext.com/)**
+- 🖌️ Profile avatar - [Hatsune Miku](https://en.wikipedia.org/wiki/Hatsune_Miku) - Artist: [たんたんめん](https://www.pixiv.net/en/users/188106)
 
-- ⚡ Fun fact about me: **I like seals (here's Yuki :3)**
+- 🚀 IDE of choice: **[IntelliJ](https://www.jetbrains.com/idea/) / [Sublime Text](https://www.sublimetext.com/) / [Eclipse IDE](https://eclipseide.org/)**
+
+- ⚡ Fun fact about me: **I like seals (here's [Yuki](https://www.youtube.com/watch?v=xkABKc0QOaI) :3)**
 
 <p align="center">
   <img src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMai" alt="yuki" style="width: 30%;" />
@@ -32,7 +34,7 @@
     </a>
 
 
-<h3 align="left">What I can use</h3>
+<h3 align="left">Languages I'm currently using </h3>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 40px; margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="27" height="27" />
     <span style="margin-left: 40px; display: inline-block;">C++ (Learning)  |</span>
