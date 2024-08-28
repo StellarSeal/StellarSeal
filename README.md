@@ -59,9 +59,9 @@
 <h3 align="left">My GitHub stats</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emnoigi1452&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emnoigi1452"style="width: 25%;"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emnoigi1452&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emnoigi1452"style="width: 32%;"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emnoigi1452&show_icons=true&locale=en&theme=tokyonight" alt="emnoigi1452" style="width: 25%;" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emnoigi1452&show_icons=true&locale=en&theme=tokyonight" alt="emnoigi1452" style="width: 32%;" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=emnoigi1452&theme=tokyonight&hide_border=false" alt="emnoigi1452" style="width: 25%;" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=emnoigi1452&theme=tokyonight&hide_border=false" alt="emnoigi1452" style="width: 32%;" /></p>
