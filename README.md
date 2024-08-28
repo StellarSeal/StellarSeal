@@ -60,7 +60,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=emnoigi1452&show_icons=true&locale=en&theme=tokyonight" alt="emnoigi1452" /></p>
 
-<p></p>
+<h2></h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emnoigi1452&theme=radical&hide_border=false" alt="emnoigi1452" style="width: 50%;" />
