@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm StellarSeal_</h1>
-<h3 align="center">A random seal who enjoys coding 🐧</h3>
+<h2 align="center">StellarSeal_ | Just a seal who enjoys coding 🐧</h2>
 
-- 🔭 Bad developer working at **[LuckyVN](https://luckyvn.com)** lmao
+- 🔭 Bad developer/administrator currently working at **[LuckyVN](https://luckyvn.com)** lmao
 
-- ✨ Mainly proficient with Spigot/Bungee developement and back-end Java apps
+- ✨ Mainly proficient with Spigot/Bungee plugin developement / server setups / Java back-end development.
 
-- 📚 Projects I've worked on: **[HyperHook](https://github.com/emnoigi1452/HyperHook)** and **[HyperFarming](https://github.com/emnoigi1452/HyperFarming)**
+- 📚 Some of my projects include **[HyperHook](https://github.com/emnoigi1452/HyperHook)** | Plugin / Discord Bot **and** **[HyperFarming](https://github.com/emnoigi1452/HyperFarming)** | Plugin
 
-- 🔨 Currently working on: **[Cinnamon](https://github.com/emnoigi1452/Cinnamon)**
+- 🔨 Currently working on: **[Cinnamon](https://github.com/emnoigi1452/Cinnamon)** | Plugin
 
-- 🖌️ Profile avatar - **[Hatsune Miku](https://en.wikipedia.org/wiki/Hatsune_Miku)** - Artist: **[たんたんめん](https://www.pixiv.net/en/users/188106)**
+- 🖌️ Profile avatar - Character: **[Hatsune Miku](https://en.wikipedia.org/wiki/Hatsune_Miku)** - Artist: **[たんたんめん](https://www.pixiv.net/en/users/188106)**
 
 - 🚀 IDE of choice: **[IntelliJ](https://www.jetbrains.com/idea/) / [Sublime Text](https://www.sublimetext.com/) / [Eclipse IDE](https://eclipseide.org/)**
 
@@ -19,7 +18,10 @@
   <img src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMai" alt="yuki" style="width: 30%;" />
 </p>
 
-<h3 align="left">My socials</h3>
+<h3 align="center">My social profiles</h3>
+
+---
+
 <a href="https://www.leetcode.com/emnoigi1452" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin: 0 20px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 10px;" />
         <span style="text-decoration: none; margin-right: 25px; display: inline-block;">emnoigi1452</span>
@@ -33,8 +35,11 @@
         <span style="text-decoration: none; margin-right: 25px; display: inline-block;">discord/@stellarseal</span>
     </a>
 
+---
 
-<h3 align="left">Languages I'm currently using </h3>
+
+
+<h3 align="center">Languages I'm currently using </h3>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; margin-right: 40px; margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="27" height="27" />
     <span style="margin-left: 40px; display: inline-block;">C++ (Learning)  |</span>
@@ -58,7 +63,7 @@
 
 <p></p>
 
-<h3 align="left">My GitHub stats</h3>
+<h3 align="center">My GitHub stats</h3>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emnoigi1452&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emnoigi1452" style="width: 32%;" />
