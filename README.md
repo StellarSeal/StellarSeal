@@ -5,7 +5,7 @@
 
 - ✨ Mainly proficient with Spigot/Bungee developement and back-end Java apps
 
-- 📚 Projects I've worked on: **[HyperHook](https://github.com/emnoigi1452/HyperHook) Discord Bot** and **[AddressLocker](https://github.com/emnoigi1452/AddressLocker)**
+- 📚 Projects I've worked on: **[HyperHook](https://github.com/emnoigi1452/HyperHook)** and **[HyperFarming](https://github.com/emnoigi1452/HyperFarming)**
 
 - 🔨 Currently working on: **[Cinnamon](https://github.com/emnoigi1452/Cinnamon)**
 
