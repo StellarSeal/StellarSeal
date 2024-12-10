@@ -4,7 +4,7 @@
 
 - ✨ Mainly proficient with Spigot/Bungee plugin developement / server setups / Java back-end development.
 
-- 📚 Some of my projects include **[HyperHook](https://github.com/emnoigi1452/HyperHook)** | Plugin / Discord Bot **and** **[HyperFarming](https://github.com/emnoigi1452/HyperFarming)** | Plugin
+- 📚 Some of my projects include **[** **[HyperHook](https://github.com/emnoigi1452/HyperHook)** | Plugin / Discord Bot **]** **and** **[** **[HyperFarming](https://github.com/emnoigi1452/HyperFarming)** | Plugin **]**
 
 - 🔨 Currently working on: **[Cinnamon](https://github.com/emnoigi1452/Cinnamon)** | Plugin
 
