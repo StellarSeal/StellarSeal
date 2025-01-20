@@ -66,9 +66,9 @@
 <h3 align="center">My GitHub stats</h3>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emnoigi1452&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emnoigi1452" style="width: 32%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StellarSeal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="StellarSeal" style="width: 32%;" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=emnoigi1452&show_icons=true&locale=en&theme=tokyonight" alt="emnoigi1452" style="width: 32%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StellarSeal&show_icons=true&locale=en&theme=tokyonight" alt="StellarSeal" style="width: 32%;" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emnoigi1452&theme=tokyonight&hide_border=false" alt="emnoigi1452" style="width: 32%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StellarSeal&theme=tokyonight&hide_border=false" alt="StellarSeal" style="width: 32%;" />
 </div>
