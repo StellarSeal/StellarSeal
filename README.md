@@ -7,7 +7,7 @@
 ---
 
 ### 🌌 About Me
-Hey there! 👋 I'm **StellarSeal_**, a passionate coder with a love for seals and a knack for crafting digital solutions. Here's a bit about me:
+Hey there! 👋 I'm **StellarSeal_**, just someone who enjoys seals and coding what I like :3
 
 - **Background**:
   - 19, studying Artificial Intelligence 🎓 at [FPT University](https://daihoc.fpt.edu.vn/)
