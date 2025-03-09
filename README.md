@@ -46,6 +46,10 @@ Click on each section if you're interested about me **:D**
     - Mouse: [VXE Dragonfly R1 SE](https://www.atk.store/products/vxe-dragonfly-r1-series-wireless-mouse?variant=44857375359194) 🖱️
     - Audio: [Truthear x Crinacle Zero RED](https://tainghe.com.vn/tai-nghe-truthear-x-crinacle-zero-red.html) x [iBasso Macaron](https://taingheviet.com/ibasso-macaron-pr11905.html) 🎧
     - Graphics Tablet: [XP-Pen Star G640](https://www.xp-pen.com/product/star-g640.html) ✍️
+    <div align="center">
+      <img src="https://github.com/StellarSeal/StellarSeal/blob/main/desktop.PNG?raw=true" alt="Desktop overview" width="75%" />
+      <p><em>A view of my Desktop - A customized theme and layout that took quite a while to setup :'D</em></p>
+    </div>
 </details>
 
 ---
@@ -94,6 +98,6 @@ Check out my coding journey in numbers and visuals:
 ### 🐾 A Final Seal of Approval
 Thanks for stopping by! 🙌 Here’s a look at Yuki to seal the deal:  
 <div align="center">
-  <img src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMai" alt="Yuki the Seal" width="25%" />
+  <img src="https://th.bing.com/th/id/OIP.wSnxF-V55rms147724MAbAHaHa?rs=1&pid=ImgDetMai" alt="Yuki the Seal" width="60%" />
   <p><em>Stay curious, keep innovating to the best of your abilities! 🚀</em></p>
 </div>
