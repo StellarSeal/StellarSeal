@@ -40,7 +40,8 @@ Hey there! 👋 I'm **StellarSeal_**, a passionate coder with a love for seals a
        <div align="center">
          <img src="https://github.com/StellarSeal/StellarSeal/blob/main/t1.PNG?raw=true" alt="ClariS - Koisekai" width="88%" />
        </div>
-    - #2. TRINITYAiLE - [Magical Melody feat. 初音ミク - Hatsune Miku](https://www.youtube.com/watch?v=xnXiaMsG6uw) 🥈  
+
+    - #2. **TRINITYAiLE - [Magical Melody feat. 初音ミク - Hatsune Miku](https://www.youtube.com/watch?v=xnXiaMsG6uw)** 🥈  
   
        <div align="center">
          <img src="https://github.com/StellarSeal/StellarSeal/blob/main/t2.PNG?raw=true" alt="TRINITYAiLE - Magical Melody" width="88%" />
@@ -57,12 +58,17 @@ Hey there! 👋 I'm **StellarSeal_**, a passionate coder with a love for seals a
          <img src="https://osekai.net/profiles/img/banner.svg?id=16836724" alt="osu/StellarSeal" width="90%" />
        </div>
 
-    - [Geometry Dash - Hardest: Acu (Extreme Demon - 10*)](https://store.steampowered.com/app/322170/Geometry_Dash/)
-    - [Genshin Impact - AR60 (Asia) - Temporarily inactive](https://enka.network/u/852945558/)
-    - [Honkai: Star Rail - TL70 (Asia) - Active](https://enka.network/hsr/804135804/)
-    - [Blue Archive - Level 88 (North America) - Active](https://bluearchive.nexon.com/)
+    - [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/) - Hardest: Acu (Extreme Demon - 10*)
+    - [Genshin Impact](https://enka.network/u/852945558/) - AR60 (Asia) - Temporarily inactive
+    - [Honkai: Star Rail](https://enka.network/hsr/804135804/) - TL70 (Asia) - Active
+    - [Blue Archive](https://bluearchive.nexon.com/) - Level 88 (North America) - Active
 
 - **Profile Avatar**: Featuring [Hatsune Miku](https://en.wikipedia.org/wiki/Hatsune_Miku), illustrated by [たんたんめん](https://www.pixiv.net/en/users/188106) 🎤
+
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/1004204809517269044/1348187191330734080/123899289_p0.jpg?ex=67ce8caa&is=67cd3b2a&hm=d1c5fdc92ed8ba87281fc3aab4ed3f8a7c8c4286ab50a087e71f49db0049e25b&=&format=webp&width=1430&height=969" alt="pixiv/123899289" width="60%" />
+  <p><em>Pink or Blue, Miku is always a favorite! :3 - Illustrated by: <a href="https://www.pixiv.net/en/artworks/123899289" target="_blank">飞机云君</a></em></p>
+</div>
 
 ---
 
