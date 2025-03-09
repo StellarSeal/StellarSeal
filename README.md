@@ -35,7 +35,8 @@ Hey there! 👋 I'm **StellarSeal_**, a passionate coder with a love for seals a
     - Mouse: [VXE Dragonfly R1 SE](https://www.atk.store/products/vxe-dragonfly-r1-series-wireless-mouse?variant=44857375359194) 🖱️
     - Audio: [Truthear x Crinacle Zero RED](https://tainghe.com.vn/tai-nghe-truthear-x-crinacle-zero-red.html) x [iBasso Macaron](https://taingheviet.com/ibasso-macaron-pr11905.html) 🎧
 - **Hobbies** 🎉
-  - Music: Quite fond of J-Pop in general, with three absolutely amazing J-Pop songs occupying my all-time favorites! 🎶 Here’s my top 3 countdown:
+  - Music: Quite fond of J-Pop in general, with three absolutely amazing J-Pop songs occupying my all-time favorites!
+  - 🎶 Here’s my top 3 countdown:
     - #1. **ClariS - [コイセカイ (Koisekai)](https://www.youtube.com/watch?v=0Uetw5zJwog)** 🥇  
        <div align="center">
          <img src="https://github.com/StellarSeal/StellarSeal/blob/main/t1.PNG?raw=true" alt="ClariS - Koisekai" width="88%" />
@@ -67,7 +68,7 @@ Hey there! 👋 I'm **StellarSeal_**, a passionate coder with a love for seals a
 
 <div align="center">
   <img src="https://media.discordapp.net/attachments/1004204809517269044/1348187191330734080/123899289_p0.jpg?ex=67ce8caa&is=67cd3b2a&hm=d1c5fdc92ed8ba87281fc3aab4ed3f8a7c8c4286ab50a087e71f49db0049e25b&=&format=webp&width=1430&height=969" alt="pixiv/123899289" width="60%" />
-  <p><em>Pink or Blue, Miku is always a favorite! :3 - Illustrated by: <a href="https://www.pixiv.net/en/artworks/123899289" target="_blank">飞机云君</a></em></p>
+  <p><em>Pink or Blue, Miku will always be a favorite of mine! :3 - Illustrated by: <a href="https://www.pixiv.net/en/artworks/123899289" target="_blank">飞机云君</a></em></p>
 </div>
 
 ---
@@ -84,6 +85,9 @@ Let’s link up! Find me on these platforms:
   </a>
   <a href="https://discordlookup.com/user/219432043354914817" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45" />
+  </a>
+  <a href="https://steamcommunity.com/id/StellarSeal_/" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/020/975/553/large_2x/steam-logo-steam-icon-transparent-free-png.png" alt="Discord" height="35" width="45" />
   </a>
 </div>
 
