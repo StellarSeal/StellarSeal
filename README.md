@@ -95,6 +95,67 @@ Check out my coding journey in numbers and visuals:
 
 ---
 
+### 💻 Languages & Skills
+Here’s what I wield in my coding arsenal:  
+
+<div align="center">
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35" /> 
+    <strong>C++</strong> <em>(Learning)</em> — For playing around with LeetCode problems 🤓
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35" /> 
+    <strong>Java</strong> <em>(Proficient)</em> — My go-to language for most of my main projects ☕
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" /> 
+    <strong>JavaScript (Nashorn)</strong> <em>(Proficient)</em> — Scripting magic used for SpigotMC servers ✨
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35" height="35" /> 
+    <strong>MySQL</strong> <em>(Basic)</em> — Decently acquainted for projects requiring database management 📊
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35" /> 
+    <strong>Python</strong> <em>(Seldom)</em> — For quick scripts, fun projects, and university AI work 🐍
+  </p>
+</div>
+
+---
+
+### 🌐 Connect with Me
+Let’s link up! 🌟 I’m active on a few platforms where you can find me coding, chatting, or sharing my latest projects. Click below to see more!
+
+<details>
+  <summary><strong>Click to Expand</strong> 👇</summary>
+  
+  <div align="center">
+    <p>
+      <a href="https://www.leetcode.com/emnoigi1452" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" />
+      </a>
+      <strong>LeetCode</strong> - <a href="https://www.leetcode.com/emnoigi1452" target="_blank">emnoigi1452</a>  
+      🧠 My go-to place for practicing algorithms and problem-solving in my free-time.
+    </p>
+    <p>
+      <a href="https://twitter.com/stellarseal_" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="45" />
+      </a>
+      <strong>Twitter</strong> - <a href="https://twitter.com/stellarseal_" target="_blank">@stellarseal_</a>  
+      🐦 Where I take a look at what's interesting on the Internet every once in a while.
+    </p>
+    <p>
+      <a href="https://discordlookup.com/user/219432043354914817" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45" />
+      </a>
+      <strong>Discord</strong> - <a href="https://discordlookup.com/user/219432043354914817" target="_blank">StellarSeal#1234</a>  
+      🎮 Usually where I hangout with my communities and friends :)
+    </p>
+  </div>
+</details>
+
+---
+
 ### 🐾 A Final Seal of Approval
 Thanks for stopping by! 🙌 Here’s a look at Yuki to seal the deal:  
 <div align="center">
