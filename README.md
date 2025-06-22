@@ -59,17 +59,16 @@ Click on each section if you're interested about me **:D**
   <summary><strong>📌 Click to Expand</strong></summary>
   
   - **Music**: Quite fond of J-Pop in general, with three absolutely amazing J-Pop songs occupying my all-time favorites!
-  - 🎶 Here’s my top 3 countdown:
-    - #1. **ClariS - [コイセカイ (Koisekai)](https://www.youtube.com/watch?v=0Uetw5zJwog)** 🥇  
-      <div align="center">
-        <img src="https://github.com/StellarSeal/StellarSeal/blob/main/t1.PNG?raw=true" alt="ClariS - Koisekai" width="88%" />
-      </div>
-
-    - #2. **TRINITYAiLE - [Magical Melody feat. 初音ミク - Hatsune Miku](https://www.youtube.com/watch?v=xnXiaMsG6uw)** 🥈  
+  - 🎶 Here’s my top 3 all-time favorites:
+    - #1. **TRINITYAiLE - [Magical Melody feat. 初音ミク - Hatsune Miku](https://www.youtube.com/watch?v=xnXiaMsG6uw)** 🥈  
       <div align="center">
         <img src="https://github.com/StellarSeal/StellarSeal/blob/main/t2.PNG?raw=true" alt="TRINITYAiLE - Magical Melody" width="88%" />
       </div>
-    - #3. **KMNZ - [R U Game ?](https://www.youtube.com/watch?v=pAE7pK1Rej0)** 🥉  
+    - #2. **ClariS - [コイセカイ (Koisekai)](https://www.youtube.com/watch?v=0Uetw5zJwog)** 🥇  
+      <div align="center">
+        <img src="https://github.com/StellarSeal/StellarSeal/blob/main/t1.PNG?raw=true" alt="ClariS - Koisekai" width="88%" />
+      </div>
+    - #3. **Quilt Heron - [Kyrie Eleison](https://www.youtube.com/watch?v=kb6X6GoKnBI)** 🥉  
       <div align="center">
         <img src="https://github.com/StellarSeal/StellarSeal/blob/main/t3.PNG?raw=true" alt="KMNZ - R U Game ?" width="88%" />
       </div>
@@ -79,9 +78,9 @@ Click on each section if you're interested about me **:D**
          <img src="https://osekai.net/profiles/img/banner.svg?id=16836724" alt="osu/StellarSeal" width="90%" />
       </div>
     - [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/) - Hardest: Acu (Extreme Demon - 10*) ⚡
-    - [Genshin Impact](https://enka.network/u/852945558/) - AR60 (Asia) - Temporarily inactive 🌓
+    - [Genshin Impact](https://enka.network/u/852945558/) - AR60 (Asia) - Active ✨
     - [Honkai: Star Rail](https://enka.network/hsr/804135804/) - TL70 (Asia) - Active ✨
-    - [Blue Archive](https://bluearchive.nexon.com/) - Level 88 (North America) - Active 💼
+    - [Blue Archive](https://bluearchive.nexon.com/) - Level 90 (North America) - Active ✨
 </details>
 
 ---
