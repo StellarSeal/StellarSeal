@@ -58,7 +58,7 @@ Click on each section if you're interested about me **:D**
 <details>
   <summary><strong>📌 Click to Expand</strong></summary>
   
-  - **Music**: Quite fond of J-Pop in general, with three absolutely amazing J-Pop songs occupying my all-time favorites!
+  - **Music**: Quite fond of J-Pop in general, with three absolutely amazing tracks occupying my all-time favorites!
   - 🎶 Here’s my top 3 all-time favorites:
     - #1. **TRINITYAiLE - [Magical Melody feat. 初音ミク - Hatsune Miku](https://www.youtube.com/watch?v=xnXiaMsG6uw)** 🥈  
       <div align="center">
