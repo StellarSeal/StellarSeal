@@ -60,11 +60,11 @@ Click on each section if you're interested about me **:D**
   
   - **Music**: Quite fond of J-Pop in general, with three absolutely amazing tracks occupying my all-time favorites!
   - 🎶 Here’s my top 3 all-time favorites:
-    - #1. **TRINITYAiLE - [Magical Melody feat. 初音ミク - Hatsune Miku](https://www.youtube.com/watch?v=xnXiaMsG6uw)** 🥈  
+    - #1. **TRINITYAiLE - [Magical Melody feat. 初音ミク - Hatsune Miku](https://www.youtube.com/watch?v=xnXiaMsG6uw)** 🥇 
       <div align="center">
         <img src="https://github.com/StellarSeal/StellarSeal/blob/main/t2.PNG?raw=true" alt="TRINITYAiLE - Magical Melody" width="88%" />
       </div>
-    - #2. **ClariS - [コイセカイ (Koisekai)](https://www.youtube.com/watch?v=0Uetw5zJwog)** 🥇  
+    - #2. **ClariS - [コイセカイ (Koisekai)](https://www.youtube.com/watch?v=0Uetw5zJwog)** 🥈
       <div align="center">
         <img src="https://github.com/StellarSeal/StellarSeal/blob/main/t1.PNG?raw=true" alt="ClariS - Koisekai" width="88%" />
       </div>
