@@ -85,8 +85,7 @@ Click on each section if you're interested about me **:D**
 
 ---
 
-### 📊 GitHub Stats
-Check out my coding journey in numbers and visuals:  
+### 📊 GitHub Stats:  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StellarSeal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="34%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StellarSeal&theme=tokyonight&hide_border=false" alt="Streak Stats" width="40%" />
@@ -95,7 +94,7 @@ Check out my coding journey in numbers and visuals:
 ---
 
 ### 💻 Languages & Skills
-Here’s what I wield in my coding arsenal:  
+Here’s the languages I commonly use:  
 
 <div align="center">
   <p>
