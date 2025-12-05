@@ -44,7 +44,7 @@ Click on each section if you're interested about me **:D**
   - Peripherals (Mainly recommended by [CheeseDustyvoxx](https://www.geartics.com/da_chee)) 🧀:
     - Keyboard: [Monka A75](https://kicap.vn/ban-phim-co-monka-a75) ⌨️
     - Mouse: [VXE Dragonfly R1 SE](https://www.atk.store/products/vxe-dragonfly-r1-series-wireless-mouse?variant=44857375359194) 🖱️
-    - Audio: [Truthear x Crinacle Zero RED](https://tainghe.com.vn/tai-nghe-truthear-x-crinacle-zero-red.html) - Modded: [Tanchjim Cable X](https://taingheviet.com/tanchjim-cable-x-pr11790.html) x [EPZ TP35 Pro](https://taingheviet.com/epz-tp35-pro-pr12225.html) 🎧
+    - Audio: [Tanchijim Nora](https://tainghe.com.vn/tai-nghe-tanchjim-nora) x [EPZ TP35 Pro](https://taingheviet.com/epz-tp35-pro-pr12225.html) 🎧
     - Graphics Tablet: [XP-Pen Star G640](https://www.xp-pen.com/product/star-g640.html) ✍️
     <div align="center">
       <img src="https://github.com/StellarSeal/StellarSeal/blob/main/desktop.PNG?raw=true" alt="Desktop overview" width="75%" />
