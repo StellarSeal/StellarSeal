@@ -12,7 +12,7 @@ Click on each section if you're interested about me **:D**
 <details>
   <summary><strong>📚 Background (Click to Expand)</strong></summary>
   
-  - 19, studying Artificial Intelligence 🎓 at [FPT University](https://daihoc.fpt.edu.vn/)
+  - 20, studying Artificial Intelligence 🎓 at [FPT University](https://daihoc.fpt.edu.vn/)
   - Self-taught developer, started with Java for Bukkit plugin development ☕
   - **Role**: **Developer & Administrator** at [LuckyVN](https://luckyvn.com) *(Self-proclaimed "bad dev" — but I get the job done! 😅)*  
   - **Expertise**: 
