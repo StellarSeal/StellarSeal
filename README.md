@@ -42,7 +42,7 @@ Click on each section if you're interested about me **:D**
   
   - Device: [Lenovo LOQ 15ARP9](https://www.lenovo.com/us/en/p/laptops/loq-laptops/lenovo-loq-15arp9/len101q0009?orgRef=https%253A%252F%252Fwww.bing.com%252F&msockid=0ce7670c6bce6df32a5373e76a946cc7#tech_specs) - AMD 7 7435HS x 16GB DDR5 RAM x RTX 4060 💻
   - Peripherals (Mainly recommended by [CheeseDustyvoxx](https://www.geartics.com/da_chee)) 🧀:
-    - Keyboard: [Monka A75](https://kicap.vn/ban-phim-co-monka-a75) ⌨️
+    - Keyboard: [Darmoshark TOP75](https://darmoshark.com/products/darmoshark-top75-trio-mode-mechanical-keyboard) ⌨️
     - Mouse: [VXE Dragonfly R1 SE](https://www.atk.store/products/vxe-dragonfly-r1-series-wireless-mouse?variant=44857375359194) 🖱️
     - Audio: [Tanchijim Nora](https://tainghe.com.vn/tai-nghe-tanchjim-nora) x [EPZ TP35 Pro](https://taingheviet.com/epz-tp35-pro-pr12225.html) 🎧
     - Graphics Tablet: [XP-Pen Star G640](https://www.xp-pen.com/product/star-g640.html) ✍️
