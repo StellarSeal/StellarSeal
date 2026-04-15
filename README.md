@@ -112,7 +112,7 @@ Feel free to reach out or check out my work:
   
   - **LeetCode**: https://www.leetcode.com/emnoigi1452  
   - **Twitter**: https://twitter.com/stellarseal_  
-  - **Discord**: StellarSeal#1234  
+  - **Discord**: stellarseal
 </details>
 
 ---
