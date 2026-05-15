@@ -85,7 +85,6 @@ Feel free to explore the sections below to learn more about my work and interest
 
 ### 📊 GitHub Statistics  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StellarSeal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="34%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StellarSeal&theme=tokyonight&hide_border=false" alt="Streak Stats" width="40%" />
 </div>
 
