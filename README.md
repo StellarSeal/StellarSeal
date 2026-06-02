@@ -32,33 +32,48 @@ Server performance, configs, databases, and production workflows.
 </table>
 </div>
 
+<details>
+<summary><strong>Background</strong></summary>
+
+<br />
+
+<ul>
+<li>20 years old and studying <strong>Artificial Intelligence</strong> at <a href="https://daihoc.fpt.edu.vn/">FPT University</a>.</li>
+<li>Self-taught developer with a Java foundation from Bukkit, Spigot, Paper, and Bungee plugin development.</li>
+<li><strong>Administrator &amp; Developer</strong> at <a href="https://github.com/LUCKYVN-NETWORK">LUCKYVN-NETWORK</a>.</li>
+<li>Currently focused on AI-related coursework, backend tools, Discord integrations, and Minecraft server performance.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Workspace</strong></summary>
+
+<br />
+
+<div align="center">
+<img src="https://github.com/StellarSeal/StellarSeal/blob/main/desktop.PNG?raw=true" alt="Desktop overview" width="80%" />
+<p><em>Lenovo LOQ 15ARP9, Ryzen 7 7435HS, 16 GB DDR5, RTX 4060.</em></p>
+<p>
+<img src="https://skillicons.dev/icons?i=windows,idea,vscode,pycharm,eclipse,git,github,mysql,redis&theme=dark" alt="Workspace application icons" />
+</p>
+</div>
+</details>
+
 <div align="center">
 <h2>Proficient Languages</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,json,yaml&theme=dark" alt="Java, JavaScript, Python, JSON, YAML" />
-</p>
-
-<p>
 <img src="https://img.shields.io/badge/Java-Proficient-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java proficient" />
-<img src="https://img.shields.io/badge/JavaScript-Proficient-f7df1e?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript proficient" />
+<img src="https://img.shields.io/badge/JavaScript-Proficient-f7df1e?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript familiar" />
 <img src="https://img.shields.io/badge/Python-Proficient-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python proficient" />
-<img src="https://img.shields.io/badge/JSON-Proficient-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON proficient" />
-<img src="https://img.shields.io/badge/YAML-Proficient-cb171e?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML proficient" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-Profile%20Markup-e34f26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 profile markup" />
-<img src="https://img.shields.io/badge/CSS3-Visual%20System-1572b6?style=flat-square&logo=css3&logoColor=white" alt="CSS3 visual system" />
-<img src="https://img.shields.io/badge/JavaScript-CDN%20Widgets-f7df1e?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript CDN widgets" />
-</p>
 </div>
 
 <div align="center">
 <h2>Toolbox</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=idea,vscode,git,github,docker,redis,mysql&theme=dark" alt="IntelliJ IDEA, Visual Studio Code, Git, GitHub, Docker, Redis, MySQL" />
 <br />
 <img src="https://img.shields.io/badge/Codex-AI%20coding-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
 <img src="https://img.shields.io/badge/Antigravity-Agentic%20IDE-4285f4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
@@ -233,33 +248,6 @@ Multi-platform bytecode injection-based profiler for Minecraft servers and proxi
 </tr>
 </table>
 </div>
-
-<details>
-<summary><strong>Background</strong></summary>
-
-<br />
-
-<ul>
-<li>20 years old and studying <strong>Artificial Intelligence</strong> at <a href="https://daihoc.fpt.edu.vn/">FPT University</a>.</li>
-<li>Self-taught developer with a Java foundation from Bukkit, Spigot, Paper, and Bungee plugin development.</li>
-<li><strong>Administrator &amp; Developer</strong> at <a href="https://github.com/LUCKYVN-NETWORK">LUCKYVN-NETWORK</a>.</li>
-<li>Currently focused on AI-related coursework, backend tools, Discord integrations, and Minecraft server performance.</li>
-</ul>
-</details>
-
-<details>
-<summary><strong>Workspace</strong></summary>
-
-<br />
-
-<div align="center">
-<img src="https://github.com/StellarSeal/StellarSeal/blob/main/desktop.PNG?raw=true" alt="Desktop overview" width="80%" />
-<p><em>Lenovo LOQ 15ARP9, Ryzen 7 7435HS, 16 GB DDR5, RTX 4060.</em></p>
-<p>
-<img src="https://skillicons.dev/icons?i=windows,idea,vscode,pycharm,eclipse,git,github,mysql,redis&theme=dark" alt="Workspace application icons" />
-</p>
-</div>
-</details>
 
 <div align="center">
 <h2>Connect</h2>
