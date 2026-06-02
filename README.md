@@ -9,7 +9,6 @@
 <p>
 <a href="https://github.com/LUCKYVN-NETWORK"><img src="https://img.shields.io/badge/LUCKYVN--NETWORK-Administrator%20%2F%20Developer-2f80ed?style=flat-square&logo=github" alt="LUCKYVN-NETWORK Administrator and Developer" /></a>
 <a href="https://daihoc.fpt.edu.vn/"><img src="https://img.shields.io/badge/FPT%20University-Artificial%20Intelligence-f97316?style=flat-square" alt="FPT University Artificial Intelligence" /></a>
-<a href="https://osu.ppy.sh/users/16836724"><img src="https://img.shields.io/badge/osu!-StellarSeal-ff66aa?style=flat-square" alt="osu! StellarSeal" /></a>
 <a href="https://leetcode.com/u/emnoigi1452/"><img src="https://img.shields.io/badge/LeetCode-emnoigi1452-ffa116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode emnoigi1452" /></a>
 </p>
 </div>
