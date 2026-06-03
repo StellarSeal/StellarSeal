@@ -201,7 +201,7 @@ Simple music player bot via Lavaplayer with osu! audio modifications and FFmpeg.
 <td align="center" width="50%">
 <a href="https://github.com/StellarSeal/Ophanim"><img src="https://img.shields.io/badge/Ophanim-Injection%20profiler-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white" alt="Ophanim" /></a>
 <br />
-Multi-platform bytecode injection-based profiler for Minecraft servers and proxies.
+Multi-platform bytecode injection-based profiler for Minecraft servers and proxies. (in-development)
 </td>
 </tr>
 </table>
