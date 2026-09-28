@@ -53,12 +53,12 @@ I understand the underlying architecture and principles of AI-powered systems an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=StellarSeal&show_icons=true&hide_border=true&bg_color=00000000&title_color=27d9d0&text_color=7a8b8a&icon_color=b8f34a" alt="StellarSeal GitHub statistics" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=StellarSeal&layout=compact&hide_border=true&bg_color=00000000&title_color=27d9d0&text_color=7a8b8a" alt="Most used languages" width="37%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StellarSeal&theme=transparent" alt="StellarSeal GitHub statistics" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StellarSeal&theme=transparent" alt="Most used languages" width="49%" />
 
 <a href="https://leetcode.com/u/emnoigi1452/"><img src="https://leetcard.jacoblin.cool/emnoigi1452?theme=light&font=Nunito&ext=heatmap&border=0" alt="LeetCode profile" width="49%" /></a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=StellarSeal&bg_color=ffffff&color=27d9d0&line=27d9d0&point=b8f34a&area=true&area_color=dafbf8&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" width="90%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StellarSeal&theme=transparent" alt="GitHub contribution graph" width="90%" />
 
 </div>
 
